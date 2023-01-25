@@ -1,4 +1,4 @@
-# Apt-Update-Upgrade
+# Apt-Update
 
 #!/bin/bash
 
